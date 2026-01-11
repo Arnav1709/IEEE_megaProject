@@ -6,6 +6,7 @@ Peacify is a mobile app designed to help users analyze and manage their mental h
 ---
 
 ## 📝 **Resume Highlights**
+- See [RESUME_POINTS.md](./RESUME_POINTS.md) for a project-wide, resume-ready summary.
 - Built a cross-platform Flutter app using BLoC with Firebase authentication and storage for secure user onboarding.
 - Integrated two Flask-hosted ML models (depression severity and stress scoring) to deliver personalized mental health insights.
 - Added an AI chatbot plus curated helpline, psychiatrist directory, diet plans, and calm music to support user well-being.
